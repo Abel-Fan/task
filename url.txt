@@ -1,1 +1,15 @@
 项目名称：地址
+
+  刘婷
+
+  苹果：    https://tingzisuk.github.io/apple/
+
+  小米：    https://tingzisuk.github.io/mi/
+
+ 优逸客：   https://tingzisuk.github.io/uek/
+
+个人网站：  https://tingzisuk.github.io/myself/
+
+天猫移动端：https://tingzisuk.github.io/maomobile/
+
+  天猫：    https://tingzisuk.github.io/tianmao/
