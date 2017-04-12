@@ -1,1 +1,4 @@
-项目名称：地址
+uek:         https://github.com/shimmerjia/uek2.0.git
+tianmaoWeb:  https://shimmerjia.github.io/tianmao/
+tianmyidong: https://shimmerjia.github.io/tianmaoyidong/
+xiaomi:      https://shimmerjia.github.io/xiaomi/
