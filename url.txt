@@ -1,2 +1,7 @@
 项目名称：地址
-王郑毅 小米 
+王郑毅 
+优逸客移动端：https://xiaoyierle.github.io/uek/
+天猫： https://xiaoyierle.github.io/tmall/
+苹果官网：https://xiaoyierle.github.io/apple/
+个人主页：https://xiaoyierle.github.io/wzy/
+小米：https://xiaoyierle.github.io/xiaomi/
