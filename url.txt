@@ -1,1 +1,11 @@
 项目名称：地址
+任雨
+苹果 https://github.com/woshitaonvlang/pingguo.git
+
+优逸客 https://github.com/woshitaonvlang/ry-uyk.git
+
+天猫 https://github.com/woshitaonvlang/tianmao.git
+
+天猫移动 https://github.com/woshitaonvlang/tianmaoyidongduan.git
+
+小米 https://github.com/woshitaonvlang/xiaomi.git
