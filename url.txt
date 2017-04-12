@@ -1,1 +1,7 @@
 项目名称：地址
+梁丽
+优逸客移动端： https://493169401.github.io/liangli-uek/
+天猫移动端： https://493169401.github.io/liangli-tmallAPP/
+凡客WEB端： https://493169401.github.io/liangli-fanke/.
+苹果WEB端： https://493169401.github.io/liangli-Apple/.
+小米WEB端：https://493169401.github.io/liangli-xiaomi/
