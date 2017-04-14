@@ -2,16 +2,18 @@
 
 刘将
 
-UEK  ：  https://github.com/jiangtop/UEK.git
+步侣--对接UI项目 ：	https://jiangtop.github.io/project--to-UI/
 
-小米   ：  https://github.com/jiangtop/xiaomi.git
+UEK  ：  		https://jiangtop.github.io/UEK/
 
-apple  ：   https://github.com/jiangtop/apple.git
+小米   ：  		https://jiangtop.github.io/xiaomi/
 
-天猫-PC  ：   https://github.com/jiangtop/tianmao-PC.git
+apple  ：   		https://jiangtop.github.io/apple/
 
-天猫-移动  ：  https://github.com/jiangtop/tianmao-mobile.git
+天猫-PC  ：   		https://jiangtop.github.io/tianmao-PC/
 
-个人网站  ：   https://github.com/jiangtop/Jiang-top.git
+天猫-移动  ：  		https://jiangtop.github.io/tianmao-mobile/
 
-凡客  ：    https://github.com/jiangtop/fanke.git
+个人网站  ：   		https://jiangtop.github.io/Jiang-top/
+
+凡客  ：    		https://jiangtop.github.io/fanke/
