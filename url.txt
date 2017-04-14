@@ -2,16 +2,16 @@
 
 于淼
 
-凡客：https://github.com/ymymymymym/fk.git
+fk： https://ymymymymym.github.io/fk/
 
-小米：https://github.com/ymymymymym/M.git
+xiaomi： https://ymymymymym.github.io/M/
 
-天猫webpage:https://github.com/ymymymymym/tamllwebpage.git
+tamllwebpage: https://ymymymymym.github.io/tamllwebpage/
 
-天猫mobile-terminal：https://github.com/ymymymymym/tamllwebpage.git
+tamllmobile-terminal： https://ymymymymym.github.io/tamll/
 
-苹果：https://github.com/ymymymymym/apple.git
+apple： https://ymymymymym.github.io/apple/
 
-个人主页：https://github.com/ymymymymym/myself.git
+myself： https://ymymymymym.github.io/myself/
 
-优逸客：https://github.com/ymymymymym/uek.git
+uek： https://ymymymymym.github.io/uek/
