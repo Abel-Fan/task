@@ -1,1 +1,7 @@
-项目名称：地址
+凡客：https://fujiaxu.github.io/fanke/
+小米：https://fujiaxu.github.io/xiaomi/
+天猫：https://fujiaxu.github.io/tianmao/
+苹果：https://fujiaxu.github.io/apple/
+bootstrap:https://fujiaxu.github.io/bootstrap/
+天猫移动端：https://fujiaxu.github.io/ydtianmao/
+优逸客移动端：https://fujiaxu.github.io/yduek/
