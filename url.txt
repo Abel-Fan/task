@@ -1,1 +1,8 @@
 项目名称：地址
+优逸客     https://huangjianxiong.github.io/youyike/
+小米       https://huangjianxiong.github.io/xiaomi/
+个人首页   https://huangjianxiong.github.io/gerenshouye/
+凡客       https://huangjianxiong.github.io/fanke/
+苹果       https://huangjianxiong.github.io/pingguo/
+天猫       https://huangjianxiong.github.io/tianmao/
+天猫移动端 https://huangjianxiong.github.io/tianmaoyidongduan/
