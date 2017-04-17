@@ -1,1 +1,10 @@
-��Ŀ���ƣ���ַ
+项目名称：地址
+张君桃
+小米：https://zhangjuntaozi.github.io/xm/
+天猫：https://zhangjuntaozi.github.io/web-tmao/
+凡客：https://zhangjuntaozi.github.io/fanke/
+苹果：https://zhangjuntaozi.github.io/apple/
+天猫移动端：https://zhangjuntaozi.github.io/move-tmao/
+个人主页：https://zhangjuntaozi.github.io/responsive-personal/
+优逸客移动端：https://zhangjuntaozi.github.io/uek/
+小组项目步侣 https://zhangjuntaozi.github.io/bulu/
